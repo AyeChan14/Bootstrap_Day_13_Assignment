@@ -1,0 +1,16 @@
+
+body{
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(images/wp11712851-storybook-wallpapers.jpg);
+}
+.container .row h1{
+    color: white;
+}
+.container .row label{
+    color: white;
+    font-size: larger;
+    font-weight: 500;
+}
+.container .row p{
+    color: white;
+}
+
